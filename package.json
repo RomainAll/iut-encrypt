@@ -1,0 +1,19 @@
+{
+  "name": "iut-encrypt",
+  "version": "1.0.0",
+  "main": "iut-encrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainAll/iut-encrypt.git"
+  },
+  "author": "Romain Allemand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainAll/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/RomainAll/iut-encrypt#readme",
+  "description": ""
+}
